@@ -71,6 +71,10 @@ body {
   height: 100vh;
 }
 
+.services .card-body i {
+  font-size: 50px;
+}
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .carousel-caption {
     bottom: 360px;
